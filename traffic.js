@@ -3,7 +3,7 @@ const frontStart = document.querySelector('#bottom-front');
 
 $( document ).ready(function() {
 
-  $(".traffic-light path").not($( ".contrast-content" )).css('fill', '#1F1FC6');
+  $(".traffic-light path").not($( ".contrast-content" )).css('fill', 'blue');
   const getColorInfo = (node) => {
     const lightInfo = {};
     lightInfo.node = node;
