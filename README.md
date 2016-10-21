@@ -1,5 +1,5 @@
 # Animated Traffic Light
-## Uses Adobe Illustrator to make svg from bitmap and animates with vanillate JavaScript.
+## Uses Adobe Illustrator to make svg from bitmap and animates with vanilla JavaScript.
 
 ![alt text](https://github.com/jenjwong/create-svg-and-animate/images/screenshot.png "Traffic Light")
 
