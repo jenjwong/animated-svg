@@ -1,0 +1,41 @@
+.svg-container {
+	display: inline-block;
+	position: relative;
+	width: 100%;
+	padding-bottom: 120%;
+	vertical-align: middle;
+	overflow: hidden;
+}
+
+
+.svg-content {
+	display: inline-block;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+
+.top-front, .top-right {
+  fill: #DA4193;
+}
+
+.top-front-on, .top-right-on {
+  fill: hsl(322, 100%, 56%);
+}
+
+.mid-front, .mid-right {
+	fill: #e8bb27;
+}
+
+.mid-front-on, .mid-right-on {
+	fill: #F2CF28;
+}
+
+.bottom-front, .bottom-right {
+  fill: #01afad;
+}
+
+.bottom-front-on, .bottom-right-on {
+  fill: #00CDBC;
+}
