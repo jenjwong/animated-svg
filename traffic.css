@@ -1,12 +1,11 @@
 .svg-container {
 	display: inline-block;
 	position: relative;
-	width: 100%;
-	padding-bottom: 120%;
+	width: 50%;
+	height: 100%
 	vertical-align: middle;
 	overflow: hidden;
 }
-
 
 .svg-content {
 	display: inline-block;
@@ -14,7 +13,6 @@
 	top: 0;
 	left: 0;
 }
-
 
 .top-front, .top-right {
   fill: #DA4193;
@@ -25,7 +23,7 @@
 }
 
 .mid-front, .mid-right {
-	fill: #e8bb27;
+	fill: #ce9b23;
 }
 
 .mid-front-on, .mid-right-on {
