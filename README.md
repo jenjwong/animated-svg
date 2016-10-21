@@ -1,1 +1,1 @@
-https://jenjwong.github.io/animated-svg
+https://jenjwong.github.io/create-svg-and-animate/
